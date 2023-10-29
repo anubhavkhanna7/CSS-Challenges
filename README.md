@@ -54,8 +54,8 @@ Here are my solutions for CSS based problems on cssbattle.dev.
 
 ![preview](./Images/Battle%206/Battle6-Summary.png)
 
-- [#29 - Suffocate](./Battles/Battle%206:%20Conic/31-Equals.md)
-- [#30 - Horizon](./Battles/Battle%206:%20Conic/32-Band-aid.md)
+- [#31 - Equals](./Battles/Battle%206:%20Conic/31-Equals.md)
+- [#32 - Band-Aid](./Battles/Battle%206:%20Conic/32-Band-aid.md)
 
 ## Battle #7 - Backface
 
@@ -70,3 +70,7 @@ Here are my solutions for CSS based problems on cssbattle.dev.
 - [#39 - Sunset](./Battles/Battle%207:%20Backface/39-Sunset.md)
 - [#40 - Letter B](./Battles/Battle%207:%20Backface/40-Letter-B.md)
 - [#41 - Fox Head](./Battles/Battle%207:%20Backface/41-Fox-Head.md)
+
+## Battle #8 - Transition
+
+- [#42 - Baby](./Images/Battle%208/42-Baby.png)
