@@ -4,9 +4,9 @@ Here are my solutions for CSS based problems on cssbattle.dev.
 
 ## Battle #1 - Pilot Battle
 
-![preview](Images/Battle%201/Battle1-Summary.png)
+![preview](./Images/Battle%201/Battle1-Summary.png)
 
-- [#1 - Simply Square](./Battles/Battle-1/#1-Simply-Square.md)
+- [#1 - Simply Square](Battles/Battle-1/#1-Simply-Square.md)
 - [#2 - Carrom](./Battles/Battle-1/#2-Carrom.md)
 - [#3 - Push Button](./Battles/Battle-1/#3%20Push%20Button.md)
 - [#4 - Ups n Downs](./Battles/Battle-1/$4%20Ups%20and%20Downs.md)
