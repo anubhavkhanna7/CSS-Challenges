@@ -61,8 +61,8 @@ Here are my solutions for CSS based problems on cssbattle.dev.
 
 ![preview](./Images/Battle%207/Battle7-Summary.png)
 
-- [#33 - Birdie](./Images/Battle%207/33-Birdie.png)
-- [#33 - Christmas Tree](./Images/Battle%207/34-Christman-Tree.png)
+- [#33 - Birdie](./Battles/Battle%207:%20Backface/33-Birdie.md)
+- [#33 - Christmas Tree](./Battles/Battle%207:%20Backface/34-Christmas-Tree.md)
 - [#35 - Ice Cream](./Battles/Battle%207:%20Backface/35-Ice-Cream.md)
 - [#36 - Interleaved](./Battles/Battle%207:%20Backface/36-Interleaved.md)
 - [#37 - Tunnel](./Battles/Battle%207:%20Backface/37-Tunnel.md)
@@ -73,4 +73,26 @@ Here are my solutions for CSS based problems on cssbattle.dev.
 
 ## Battle #8 - Transition
 
-- [#42 - Baby](./Images/Battle%208/42-Baby.png)
+![preview](./Images/Battle%208/Battle8-Summary.png)
+
+- [#42 - Baby](./Battles/Battle%208:%20Transition/42-Baby.md)
+- [#43 - Wrench](./Battles/Battle%208:%20Transition/43-Wrench.md)
+- [#44 - Stripes](./Battles/Battle%208:%20Transition/44-Stripes.md)
+
+## Battle #9 - Margin
+
+![preview](./Images/Battle%209/Battle9-Summary.png)
+
+- [#45 - Magical Tree](./Battles/Battle%209:%20Margin/45-Magical-Tree.md)
+- [#46 - Mountains](./Battles/Battle%209:%20Margin/46-Mountains.md)
+
+## Battle #10 - Block
+
+![preview](./Images/Battle%2010/Battle10-Summary.png)
+
+- [#47 - Corona Virus](./Battles/Battle%2010:%20Block/47-Corona-Virus.md)
+- [#48 - Wash Your Hands](./Battles/Battle%2010:%20Block/48-Wash-Your-Hands.md)
+- [#49 - Stay At Home](./Battles/Battle%2010:%20Block/49-Stay-At-Home.md)
+- [#50 - Use Hand Sanitiser](./Battles/Battle%2010:%20Block/50-Use-Hand-Sanitiser.md)
+- [#51 - Wear A Mask](./Battles/Battle%2010:%20Block/51-Wear-A-Mask.md)
+- [#52 - Break The Chain](./Battles/Battle%2010:%20Block/52-Break-The-Chain.md)
